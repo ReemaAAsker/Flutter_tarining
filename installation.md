@@ -89,6 +89,7 @@
 
 - [Flutter الرسمي](https://flutter.dev)
 - [Android Studio](https://developer.android.com/studio)
+- [Youtube Channel](https://youtu.be/v2oItFAPDu4?si=KxKTiyYxtqf-kiHV)
 
 ---
 
